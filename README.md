@@ -5,7 +5,7 @@ Edited and evolved By **Abdelrahman Amr Issawi 16P6001** For CSE426: Software Ma
 **Added**
 - Support Formatting C# programming language as well as supporting python.
 - Code is reformatted.
-- Code design is changed.
+- Design is changed. 
 - IDE Only support coloring python and C# files, not any opened type.
 - Opened files programming language is detected automatically.
 - Saving files depends on chosen or detected programming language.
