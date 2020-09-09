@@ -16,6 +16,7 @@ It's an **open source** IDE code intially Created by **Graduation Project** Team
 
 **Added**
 - Support Formatting C# programming language as well as supporting python.
+- Code reformatted.
 
 ## Requirements 
 - Python3
@@ -29,7 +30,7 @@ It's an **open source** IDE code intially Created by **Graduation Project** Team
 ### **NOTE**
 If python3 is the default use this: 
 - pip install -r requirements.txt 
-**It is recommended to run using Anaconde Spyder**
+- It is recommended to run using Anaconde Spyder**
 
 ## Run
 - Clone the repo .
