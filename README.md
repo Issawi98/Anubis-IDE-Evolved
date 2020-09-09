@@ -44,4 +44,3 @@ If python3 is the default use this:
 
 ## Welcome
 
-(![Welcome](https://www4.0zz0.com/2020/07/22/02/133570716.png))
