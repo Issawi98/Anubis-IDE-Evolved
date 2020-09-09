@@ -1,7 +1,7 @@
 **EVOLVED VERSION**
 Edited and evolved By **Abdelrahman Amr Issawi 16P6001** For CSE426: Software Maintenance and Evolution Course
 **DR. Ayman Bahaa**
-=---------------------
+
 
 # Anubis IDE 
 It's an **open source** IDE code intially Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
