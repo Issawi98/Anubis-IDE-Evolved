@@ -2,6 +2,13 @@
 Edited and evolved By **Abdelrahman Amr Issawi 16P6001** For CSE426: Software Maintenance and Evolution Course
 **DR. Ayman Bahaa**
 
+**Added**
+- Support Formatting C# programming language as well as supporting python.
+- Code is reformatted.
+- Code design changed.
+- Only support coloring python and C# files.
+- Opened files language is detected automatically.
+- Saving depends on chosen or detected language.
 
 # Anubis IDE 
 It's an **open source** IDE code intially Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
@@ -14,9 +21,6 @@ It's an **open source** IDE code intially Created by **Graduation Project** Team
 - We developed Anubis IDE using PYQT5 .
 - PyQt5 is a library that lets you use the Qt GUI framework from Python. Qt itself is written in C++. By using it from Python, you can build applications much more quickly while not sacrificing much of the speed of C++.
 
-**Added**
-- Support Formatting C# programming language as well as supporting python.
-- Code reformatted.
 
 ## Requirements 
 - Python3
